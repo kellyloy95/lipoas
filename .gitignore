@@ -1,0 +1,5 @@
+Debug/
+.vs/
+*.opensdf
+*.VC.db
+*.sdf
